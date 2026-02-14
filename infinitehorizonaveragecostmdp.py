@@ -2,8 +2,7 @@
 """
 Created on Sat Feb 14 17:53:49 2026
 
-@author: birolduru
-"""
+
 
 from dataclasses import dataclass
 from itertools import product
@@ -467,5 +466,6 @@ if __name__ == "__main__":
         y=((0,0),(2,0)),  # B -> A gönderiyoruz
         D2=(2,0)
     )
+
 
 
